@@ -12,7 +12,6 @@ This package try to solve:
 
 ### Swift Package Manager:
 
-https://github.com/adriantabirta/CombineNotificationCenter.git
 ```
 dependencies: [
     .package(url: "https://github.com/adriantabirta/CombineNotificationCenter.git", .branch(from: "main"))
